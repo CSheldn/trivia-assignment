@@ -14,7 +14,6 @@ export default function Home() {
         <div className="flex flex-col items-center gap-6 text-center sm:items-start">
           <h1 className="text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             Welcome to the Rick and Morty page, checkout some of the characters!
-            Deployed With netlify
           </h1>
         </div>
       </main>
